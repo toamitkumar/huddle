@@ -3,7 +3,7 @@ import static org.junit.Assert.assertEquals;
 
 public class CanaryTest {
 
-  @Test
+@Test
   public void testShouldPass() {
     assertEquals(true, true);
   }
